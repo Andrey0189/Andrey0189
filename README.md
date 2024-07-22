@@ -52,8 +52,8 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrey0189&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="andrey0189" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrey0189&show_icons=true&locale=en&layout=compact&theme=dark" alt="andrey0189" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrey0189&show_icons=true&locale=en&theme=gruvbox" alt="andrey0189" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrey0189&show_icons=true&locale=en&theme=dark" alt="andrey0189" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrey0189" alt="andrey0189" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrey0189&theme=dark" alt="andrey0189" /></a> </p>
