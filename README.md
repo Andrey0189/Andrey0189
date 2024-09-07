@@ -2,7 +2,7 @@
 <p align="center">aka <a href="https://www.youtube.com/@Ampersand-xc9jp">Ampersand</a> on YouTube</p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrey0189&label=Profile%20views&color=0e75b6&style=flat" alt="andrey0189" /> </p>-->
-
+<p align="center">My <a href="https://ampersand.onlinecoursehost.com/courses/neovim">Full Neovim Course</a></p>
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <!--<p align="left">-->
