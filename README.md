@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andew</h1>
+<h1 align="center">Hi 👋, I'm Andrew</h1>
 <p align="center">aka <a href="https://www.youtube.com/@Ampersand-xc9jp">Ampersand</a> on YouTube</p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrey0189&label=Profile%20views&color=0e75b6&style=flat" alt="andrey0189" /> </p>-->
